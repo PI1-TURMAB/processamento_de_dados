@@ -11,3 +11,5 @@
 |Lucas Macêdo|[lukassxp](https://github.com/lukassxp)|Engenharia de Software|
 
 ## Responsabilidade
+
+Após encaminhamento dos sinais feitos pela equipe de controle, fica a cargo da equipe de processamentos de sinais tratar esses sinas recebidos, e após processamento devolve-los para os dispositivos designados.
